@@ -8,6 +8,7 @@ Group:		Development/Languages
 Source0:	http://download.eclipse.org/technology/ajdt/30/update/ajdt_%{version}_archive.zip
 # Source0-md5:	80a9fcbdb18d5ca46340c011cf28f45a
 URL:		http://www.eclipse.org/ajdt/
+BuildRequires:	unzip
 Requires:	eclipse >= 3.0
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
