@@ -9,7 +9,7 @@ Source0:	http://download.eclipse.org/tools/ajdt/32/update/ajdt_%{version}_for_ec
 # Source0-md5:	a535a91f7aaac3a23e44e17a40431b43
 URL:		http://www.eclipse.org/ajdt/
 BuildRequires:	unzip
-Requires:	acpectj >= 1.5.2
+Requires:	aspectj >= 1.5.2
 Requires:	eclipse >= 3.2
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
