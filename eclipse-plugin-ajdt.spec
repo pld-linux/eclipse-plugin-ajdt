@@ -1,5 +1,5 @@
 Summary:	AJDT - aspectJ development tools
-Summary(pl):	AJDT - narzêdzia programistyczne aspectJ
+Summary(pl.UTF-8):   AJDT - narzÄ™dzia programistyczne aspectJ
 Name:		eclipse-plugin-ajdt
 Version:	1.4
 Release:	1
@@ -21,10 +21,10 @@ The AspectJ Development Tools (AJDT) project provides Eclipse platform
 based tool support for AOSD (Aspect Oriented Software Development)
 with AspectJ.
 
-%description -l pl
-Projekt AJDT (AspectJ Development Tools) dodaje obs³ugê AOSD (Aspect
+%description -l pl.UTF-8
+Projekt AJDT (AspectJ Development Tools) dodaje obsÅ‚ugÄ™ AOSD (Aspect
 Oriented Software Development - tworzenia oprogramowania
-zorientowanego aspektowo) do narzêdzi opartych na platformie Eclipse.
+zorientowanego aspektowo) do narzÄ™dzi opartych na platformie Eclipse.
 
 %prep
 %setup -q -c
