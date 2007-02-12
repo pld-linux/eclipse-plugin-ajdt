@@ -1,5 +1,5 @@
 Summary:	AJDT - aspectJ development tools
-Summary(pl.UTF-8):   AJDT - narzędzia programistyczne aspectJ
+Summary(pl.UTF-8):	AJDT - narzędzia programistyczne aspectJ
 Name:		eclipse-plugin-ajdt
 Version:	1.4
 Release:	1
