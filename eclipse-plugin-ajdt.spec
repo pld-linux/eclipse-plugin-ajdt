@@ -1,7 +1,7 @@
 Summary:	AJDT - aspectJ development tools
 Summary(pl.UTF-8):	AJDT - narzędzia programistyczne aspectJ
 Name:		eclipse-plugin-ajdt
-Version:	1.4
+Version:	1.5.2
 Release:	1
 License:	CPL v0.5
 Group:		Development/Languages
@@ -9,8 +9,8 @@ Source0:	http://download.eclipse.org/tools/ajdt/32/update/ajdt_%{version}_for_ec
 # Source0-md5:	a535a91f7aaac3a23e44e17a40431b43
 URL:		http://www.eclipse.org/ajdt/
 BuildRequires:	unzip
-Requires:	aspectj >= 1.5.2
-Requires:	eclipse >= 3.2
+Requires:	aspectj >= 1.6.0
+Requires:	eclipse >= 3.3
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
