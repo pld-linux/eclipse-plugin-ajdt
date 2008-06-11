@@ -6,7 +6,7 @@ Release:	1
 License:	CPL v0.5
 Group:		Development/Languages
 Source0:	http://download.eclipse.org/tools/ajdt/33/update/ajdt_%{version}_for_eclipse_3.3.zip
-# Source0-md5:	a535a91f7aaac3a23e44e17a40431b43
+# Source0-md5:	e1b6b84cf4e885ff4395460ace0173e8
 URL:		http://www.eclipse.org/ajdt/
 BuildRequires:	unzip
 Requires:	aspectj >= 1.6.0
